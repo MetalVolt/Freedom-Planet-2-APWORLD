@@ -2,7 +2,7 @@
 """
 Archipelago World definition for Freedom Planet 2
 """
-#Standard imports, may or may not need some of these.
+#Standard imports, may or may not need some of these. Not knowing much, I presumed many of these WOULD be needed based on seeing other APWORLDS.
 #Can decide that later.
 import copy
 import os
